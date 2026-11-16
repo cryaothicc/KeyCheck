@@ -2,6 +2,8 @@
 
 See which keys your browser detects on a physical keyboard. KeyCheck shows your current key, recent presses, and progress across the displayed layout.
 
+[Open KeyCheck on GitHub Pages](https://cryaothicc.github.io/KeyCheck/)
+
 ## Run locally
 
 Open `index.html` in a desktop or laptop browser and press a key. No install or build step is needed. The page uses Sora from Google Fonts with a system fallback.
