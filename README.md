@@ -6,11 +6,11 @@ See which keys your browser detects on a physical keyboard. KeyCheck shows your 
 
 ## Run locally
 
-Open `index.html` in a desktop or laptop browser and press a key. No install or build step is needed. The page uses Sora from Google Fonts with a system fallback.
+Open `index.html` in a desktop or laptop browser and press a key. No install, build step, or external font is needed. The full-size keyboard uses sculpted keycaps in a dark layout, with the numpad and navigation keys kept in place.
 
 ## Read the results
 
-- **Yellow** means the key is currently held down.
+- **Warm yellow** means the key is currently held down.
 - **Mint green** means the browser detected the key during this test.
 - The key readout shows the physical `KeyboardEvent.code` and legacy `keyCode`.
 - Select **Start over** to clear the history and progress.
